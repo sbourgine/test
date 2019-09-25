@@ -1,4 +1,7 @@
 theme: jekyll-theme-slate
+relative_links:
+  enabled: true
+  collections: true
 include:
   - toto.md
   
